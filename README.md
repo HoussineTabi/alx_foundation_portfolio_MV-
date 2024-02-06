@@ -1,6 +1,6 @@
-# Malzahratech Machine Maintenance Management System
+# AssetSphere Machine Maintenance Management System
 
-Malzahratech is a platform for assest management(machines, vehicles, equipments), maintenace report , maintenance schedule, inventory management, predictive maintenance, preventive maintenance, live data analysis and reports and work order management.
+AssetSphere a platform for assest management(machines, vehicles, ...), maintenace report , maintenance schedule, inventory management, predictive maintenance, preventive maintenance, live data analysis and reports and work order management.
 
 ## Table of Contents
 
@@ -43,7 +43,7 @@ Malzahratech is a platform for assest management(machines, vehicles, equipments)
 
 ## Project Overview
 
-Malzahratech is a platform for assest management(machines, vehicles, equipments), maintenace report , maintenance schedule, inventory management, predictive maintenance, preventive maintenance, live data analysis and reports and work order management.
+AssetSphere is a platform for assest management(machines, vehicles, equipments), maintenace report , maintenance schedule, inventory management, predictive maintenance, preventive maintenance, live data analysis and reports and work order management.
 
 ## Installation
 
